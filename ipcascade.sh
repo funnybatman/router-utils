@@ -178,15 +178,6 @@ list_active_rules() {
         if [[ -n "$l_port" ]]; then echo -e "$l_port\t\t$l_proto\t\t$l_dest"; fi
     done
     echo ""
-    
-    echo -e "${GREEN}💰 Задонатить каналу и автору:${NC}"
-    if command -v qrencode &> /dev/null; then
-        qrencode -t ANSIUTF8 "https://pay.cloudtips.ru/p/7410814f"
-    else
-        echo "https://pay.cloudtips.ru/p/7410814f"
-    fi
-    echo ""
-
     read -p "Нажмите Enter..."
 }
 
