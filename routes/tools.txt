@@ -14,13 +14,18 @@ conductor.build
 crackr.dev
 datalore.io
 deepl.com
+docusign.com
+docusign.net
 fast.com
 fastpic.org
 fastpic.ru
 feedly.com
 figma.com
 fireflies.ai
+ggsel.net
+geonix.com
 grazie.ai
+habrastorage.org
 icepanel.io
 intellij.com
 intellij.net
@@ -34,7 +39,10 @@ jetbrains.net
 jetbrains.space
 jetbrains.team
 jira.com
+kleos.io
 kotlinlang.org
+lightdash.com
+linear.app
 lingui.dev
 lovable.app
 medium.com
@@ -56,6 +64,7 @@ sentry-cdn.com
 sentry.io
 sider.ai
 sli.dev
+springcm.com
 ss-inf.net
 statuspage.io
 tencentcloud.com
